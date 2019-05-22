@@ -16,3 +16,5 @@ Submitting the same or substantially similar work in multiple courses, either in
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course. 
 
 ## Project Description
+
+This project explores the relationship between socioeconomic variables, concentration of fast food restaurants and obesity/diabetic rates using data from the USDA.
